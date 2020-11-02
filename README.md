@@ -19,12 +19,6 @@ This application will take users through multiple prompts that will help them fi
     
  ## **Contributors**
 * [Robert Anderson](https://github.com/reanderson89)
-<!--- (Delete these or add more as needed)-->
-* [Enter other teammate](https://github.com/their-GitHub-Username)
-    
-* [Enter other teammate](https://github.com/their-GitHub-Username)
-    
-* [Enter other teammate](https://github.com/their-GitHub-Username)
 
 ## **Technology Stack**
 Javascript
