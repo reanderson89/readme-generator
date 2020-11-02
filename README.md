@@ -25,24 +25,17 @@ Javascript
     
 ## **Demo**
 - ![demo gif](pathway to gif goes here)
-- ![alt text](http://url/to/img.png or link from relative pathway)
 
 ## **Installation**
 All necessary packages will come with the repository. In order to get it running properly you will need to enter "npm install" into your command line.
     
 ## **Usage**
 Enter "node index.js" into the command line and then follow the prompts to create your readme.
-    
-## **Tests**
-TBD
-    
+       
 ## **Questions**   
 ####    **For any questions or inquiries please contact me at,**
 * #### **GitHub:** [@reanderson89](https://github.com/reanderson89)
 * #### **Email:** reanderson89@gmail.com
-
-## **Contribute**
-TBD
   
 ## **License**
 MIT
