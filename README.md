@@ -24,7 +24,7 @@ This application will take users through multiple prompts that will help them fi
 Javascript
     
 ## **Demo**
-- ![demo gif](pathway to gif goes here)
+- ![demo gif](assets/gifs/readmeGenDemoLarge.gif)
 
 ## **Installation**
 All necessary packages will come with the repository. In order to get it running properly you will need to enter "npm install" into your command line.

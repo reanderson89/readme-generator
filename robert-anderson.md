@@ -14,7 +14,7 @@
   www.google.com
       
   ## **Description**
-  This is a readme generator
+  this is a test
       
    ## **Contributors**
   * [Robert Anderson](https://github.com/reanderson89)
@@ -33,13 +33,13 @@
   - ![alt text](http://url/to/img.png or link from relative pathway)
   
   ## **Installation**
-  after forking, run "npm install"
+  npm install
       
   ## **Usage**
-  run "node index.js"
+  node index.js
       
   ## **Tests**
-  later
+  not now
       
   ## **Questions**   
   ####    **For any questions or inquiries please contact me at,**
@@ -47,7 +47,7 @@
   * #### **Email:** reanderson89@gmail.com
   
   ## **Contribute**
-  Please contact me
+  none at the moment
     
   ## **License**
   MIT
